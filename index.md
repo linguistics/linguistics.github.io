@@ -1,4 +1,6 @@
 ---
+layout: default
+---
 ## The [departmental website](http://www.utexas.edu/cola/depts/linguistics)
 
 The [University of Texas at Austin](http://www.utexas.edu/) [College of Liberal Arts](http://www.utexas.edu/cola/) [Department of Linguistics](http://www.utexas.edu/cola/depts/linguistics) lists:
@@ -57,3 +59,10 @@ A few other shortcuts to current pages:
 
 * [ASOL](https://wikis.utexas.edu/display/linguistics/Associated+Students+of+Linguistics)
 * [Colloquia](https://wikis.utexas.edu/display/linguistics/Colloquia)
+
+
+## Source and Disclaimer
+
+Back to the github repository:
+
+[github.com/linguistics](https://github.com/linguistics/linguistics.github.io)
