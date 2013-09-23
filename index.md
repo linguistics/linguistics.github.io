@@ -18,12 +18,12 @@ From there, you can navigate to the following page to changes the fields that ar
 * [My profile](http://www.utexas.edu/cola/_db/myprofile/)
 
 
-## The UT [Directory](http://www.utexas.edu/directory/)
+## The [UT Directory](http://www.utexas.edu/directory/)
 
-You can search the directory directly:
+You can search the directory directly from here, as well:
 
 <form action="http://www.utexas.edu/directory/index.php" method="get">
-  <label>Name: <input name="q"></label>
+  <label>Name: <input name="q" /></label>
   <button>Search</button>
 </form>
 
@@ -33,7 +33,7 @@ By default, personal information like phone number, address, and apartment numbe
 
 * [utdirect.utexas.edu/registrar/myinfo/sdr_restrict.WBX](https://utdirect.utexas.edu/registrar/myinfo/sdr_restrict.WBX)
 
-_Instructions:_
+Instructions:
 
 * Selectively restrict directory information items below by checking each box and selecting "Update".
 * Selectively release directory information items below by un-checking each box and selecting "Update".
@@ -55,7 +55,7 @@ You can access this at [wikis.utexas.edu](https://wikis.utexas.edu/), logging in
 
 * [Department of Linguistics Wiki Homepage](https://wikis.utexas.edu/display/linguistics/Home)
 
-A few other shortcuts to current pages:
+Other pages currently on the wiki:
 
 * [ASOL](https://wikis.utexas.edu/display/linguistics/Associated+Students+of+Linguistics)
 * [Colloquia](https://wikis.utexas.edu/display/linguistics/Colloquia)
