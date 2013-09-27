@@ -23,11 +23,8 @@ From there, you can navigate to the following page to changes the fields that ar
 You can search the directory directly from here, as well:
 
 <form action="http://www.utexas.edu/directory/index.php" method="get">
-  <fieldset>
-    <legend>UT directory query</legend>
-    <label><b>Name:</b> <input name="q" style="width: 200px" /></label>
-    <button>Search</button>
-  </fieldset>
+  <label><b>Name:</b> <input name="q" style="width: 200px" /></label>
+  <button>Search</button>
 </form>
 
 By default, personal information like phone number, address, and apartment number are exposed publically, though the UT site disallows Google (and other search tools) from indexing the directory search results.
