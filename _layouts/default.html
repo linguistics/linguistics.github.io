@@ -5,19 +5,74 @@
   <style>
   body {
     margin: 0;
-    padding: 0;
-    font-family: 'Helvetica Neue', Helvetica, Arial;
+    padding: 20px;
+    font: 14px 'Helvetica Neue', Helvetica, Arial;
+    color: #444;
     font-weight: 200;
   }
-  #container {
-    padding: 1em;
+  .container {
+    margin: 0 auto;
+    width:
+  }
+  header {
+    width: 225px;
+    position: fixed;
+  }
+  section {
+    margin-left: 250px;
+    max-width: 600px;
+  }
+  header :first-child, section :first-child {
+    margin-top: 0;
   }
   h1, h2, h3 {
+    margin: 1ex 0 .5ex 0;
+  }
+  p {
+    margin: .25ex 0;
+  }
+  header > a {
+    display: block;
+    margin: .25ex 0;
+    padding: .25ex 0;
+  }
+  a:link {
+    color: #0F4259;
+  }
+  a:visited {
+    color: #0F594B;
+  }
+  a:hover {
+    color: #2A637D;
+  }
+  a:visited {
+    color: #2B4F5E;
+  }
+  form {
+    margin: 2ex 0;
   }
   </style>
 </head>
 <body>
-  <div id="container">
-    {{content}}
+  <div class="container">
+    <header>
+      <h1>UT Linguistics</h1>
+
+      <h2>Disclaimer</h2>
+      <p style="font-size: 90%">This repository and all others under <a href="https://github.com/linguistics">http://github.com/linguistics</a> are not official representations of the University of Texas at Austin, nor the College of Liberal Arts, nor the Linguistics Department.</p>
+
+      <h2>Resources</h2>
+      <a href="#the_departmental_website">The departmental website</a>
+      <a href="#the_ut_directory">The UT directory</a>
+      <a href="#the_wiki">The wiki</a>
+      <a href="/cla/map.html">CLA map</a>
+
+      <h2>Source</h2>
+      <a href="https://github.com/linguistics">@linguistics</a>
+      <a href="https://github.com/linguistics/linguistics.github.io">This repository</a>
+    </header>
+    <section>
+      {{ content }}
+    </section>
   </div>
 </body>
