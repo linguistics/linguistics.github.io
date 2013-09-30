@@ -65,3 +65,10 @@ Other pages currently on the wiki:
 
 * [ASOL](https://wikis.utexas.edu/display/linguistics/Associated+Students+of+Linguistics)
 * [Colloquia](https://wikis.utexas.edu/display/linguistics/Colloquia)
+
+
+# Academic resources
+
+* [Google Scholar](http://scholar.google.com.ezproxy.lib.utexas.edu/)
+* [Library Databases](https://login.ezproxy.lib.utexas.edu/menu)
+* [Library Catalog](http://catalog.lib.utexas.edu/)
