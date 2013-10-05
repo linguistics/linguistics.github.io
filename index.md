@@ -53,7 +53,7 @@ Or if you simply want to update your address, go to this page:
 * [utdirect.utexas.edu/apps/utd/all_my_addresses](https://utdirect.utexas.edu/apps/utd/all_my_addresses/)
 
 
-# The [wiki](wikis.utexas.edu)
+# The [wiki](https://wikis.utexas.edu/)
 
 UT offers a Confluence Wiki behind a UT EID login wall. Presumably access is shared and global among all UT students, faculty, and staff.
 
