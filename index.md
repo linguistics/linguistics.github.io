@@ -9,14 +9,7 @@ The [University of Texas at Austin](http://www.utexas.edu/) [College of Liberal 
 * [Students](http://www.utexas.edu/cola/depts/linguistics/graduate_programs/gradstudents/list.php)
 * [Staff](http://www.utexas.edu/cola/depts/linguistics/staff/list.php)
 
-To change your profile that gets displayed on those pages, go to this page:
-
-* [www.utexas.edu/cola/_db/](http://www.utexas.edu/cola/_db/)
-
-From there, you can navigate to the following page to changes the fields that are displayed on your page:
-
-* [My profile](http://www.utexas.edu/cola/_db/myprofile/)
-
+[Instructions](profile) on updating your profile.
 
 # The [UT Directory](http://www.utexas.edu/directory/)
 
@@ -31,27 +24,9 @@ You can search the directory directly from here, as well:
   </fieldset>
 </form>
 
-By default, personal information like phone number, address, and apartment number are exposed publically, though the UT site disallows Google (and other search tools) from indexing the directory search results.
+By default, personal information like phone number, address, and apartment number are exposed publicly, though the UT site [disallows](http://www.utexas.edu/robots.txt) Google (and other search tools) from indexing the directory search results.
 
-### To remove this information from the directory
-
-Go to the following page:
-
-* [utdirect.utexas.edu/registrar/myinfo/sdr_restrict.WBX](https://utdirect.utexas.edu/registrar/myinfo/sdr_restrict.WBX)
-
-Instructions:
-
-* Selectively restrict directory information items below by checking each box and selecting "Update".
-* Selectively release directory information items below by un-checking each box and selecting "Update".
-* Updates to FERPA Restrictions for a directory information item will automatically update the settings for all services that contain that item.
-* Updates to a specific service (Online Directory, WebSpace) for a directory information item will update the item in that service only.
-* You may restrict an entire service by selecting "Change Service" and checking the "Opt Out of This Service" box. Click "Update" for the changes to take effect. Checking the "Opt Out of All Services" box in the "FERPA Restrictions" column and selecting "Update" will restrict ALL information for ALL services.
-* Un-checking the "Opt Out of this Service" box and updating will reset all directory information items for that service, making them "available". Un-checking the "Opt Out of All Services" box in the "FERPA Restrictions" column and updating will reset ALL items for ALL services.
-
-Or if you simply want to update your address, go to this page:
-
-* [utdirect.utexas.edu/apps/utd/all_my_addresses](https://utdirect.utexas.edu/apps/utd/all_my_addresses/)
-
+You can't remove your name, email, or faculty / staff / student status from the listing, but here are [instructions to remove most of your personal information](privacy) from this listing.
 
 # The [wiki](https://wikis.utexas.edu/)
 
@@ -72,3 +47,15 @@ Other pages currently on the wiki:
 * [Google Scholar](http://scholar.google.com.ezproxy.lib.utexas.edu/)
 * [Library Databases](https://login.ezproxy.lib.utexas.edu/menu)
 * [Library Catalog](http://catalog.lib.utexas.edu/)
+
+# Special interest groups in Linguistics
+
+* [UT Computational Linguistics mailing list](https://groups.google.com/forum/#!forum/ut-compling):
+  Notices of computational linguistics talks, sometimes more general machine learning / statistics talks, corpora releases, job openings, and other irregular events appealing to the comp ling community.
+    _Frequency_: &lt;1 / month
+* [UT Natural Language Learning](https://groups.google.com/forum/#!forum/ut-nll) (NLL):
+  Meeting every two weeks (during the long semesters) to discuss a preselected paper, often presented by a member of the group. Slides are discouraged unless stolen.
+    _Frequency_: 1 / week during the semester
+* [UT Computational Linguistics Tea](https://groups.google.com/forum/#!forum/utcl-tea) (CL Tea):
+  Meeting every two weeks (alternating, i.e. interlacing, with NLL) to discuss the members' current work, often focusing on one or two members. Feedback-heavy. Slides are discouraged unless the presentation is practice for a conference talk.
+    _Frequency_: 1 / week during the semester
