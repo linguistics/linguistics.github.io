@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
-The following resources are intended to get you acquainted with your new department, university, city, state, country, etc. But it's sometimes hard for us old folks to remember what it was like to be new to graduate school. So post your questions, please!
+# New Students
+
+The following resources are intended to get you acquainted with your new department, university, city, state, country, etc.
 
 ## Housing
 

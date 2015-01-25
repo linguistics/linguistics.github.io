@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+# ASOL
 
 This page documents the responsibilities of some of the ASOL committees.
 
