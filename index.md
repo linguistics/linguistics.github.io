@@ -11,6 +11,7 @@ The [University of Texas at Austin](http://www.utexas.edu/) [College of Liberal 
 
 [Instructions](profile) on updating your profile.
 
+
 # The [UT Directory](http://www.utexas.edu/directory/)
 
 You can search the directory directly from here, as well:
@@ -28,25 +29,19 @@ By default, personal information like phone number, address, and apartment numbe
 
 You can't remove your name, email, or faculty / staff / student status from the listing, but here are [instructions to remove most of your personal information](privacy) from this listing.
 
-# The [wiki](https://wikis.utexas.edu/)
-
-UT offers a Confluence Wiki behind a UT EID login wall. Presumably access is shared and global among all UT students, faculty, and staff.
-
-You can access this at [wikis.utexas.edu](https://wikis.utexas.edu/), logging in with your UT EID and standard UT system password.
-
-* [Department of Linguistics Wiki Homepage](https://wikis.utexas.edu/display/linguistics/Home)
-
-Other pages currently on the wiki:
-
-* [ASOL](https://wikis.utexas.edu/display/linguistics/Associated+Students+of+Linguistics)
-* [Colloquia](https://wikis.utexas.edu/display/linguistics/Colloquia)
-
 
 # Academic resources
 
 * [Google Scholar](http://scholar.google.com.ezproxy.lib.utexas.edu/)
 * [Library Databases](https://login.ezproxy.lib.utexas.edu/menu)
 * [Library Catalog](http://catalog.lib.utexas.edu/)
+
+
+# Graduate student resources
+
+* [Advancing to candidacy](http://www.utexas.edu/ogs/pdn/candidacy.html)
+* [Graduating](http://www.utexas.edu/ogs/pdn/deadlines/doc_fall.html)
+
 
 # Special interest groups in Linguistics
 
@@ -59,3 +54,16 @@ Other pages currently on the wiki:
 * [UT Computational Linguistics Tea](https://groups.google.com/forum/#!forum/utcl-tea) (CL Tea):
   Meeting every two weeks (alternating, i.e. interlacing, with NLL) to discuss the members' current work, often focusing on one or two members. Feedback-heavy. Slides are discouraged unless the presentation is practice for a conference talk.
     _Frequency_: 1 / week during the semester
+
+
+# Mailing lists
+
+These lists are all facilitated by UT's central listserve, "sympa."
+
+* [linguistics-announce](https://utlists.utexas.edu/sympa/info/linguistics-announce): Open access; most often used for colloquium announcements, but sometimes announces related talks or events around campus.
+
+* [linguisticsdept](https://utlists.utexas.edu/sympa/info/linguisticsdept): Miscellaneous information, like happy hours, checked out library book requests, leftovers up for grabs, dissertation defenses. Non-`@utexas.edu` email addresses must be approved for membership.
+
+* [asol](https://utlists.utexas.edu/sympa/info/asol): For most graduate-student related announcements.
+
+* [cola_grants_alert](https://utlists.utexas.edu/sympa/info/cola_grants_alert): Weekly listing of university-wide grants.
