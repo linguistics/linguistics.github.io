@@ -97,8 +97,15 @@ This Fall semester potluck is held on campus in the department's lounge, on one 
   - Time (usually 12:00pm to 1:30pm)
   - A link to a Google spreadsheet. It should be shared so that "Anyone with the link can edit", and have the following columns:
 
-    | Name | Contribution | Vegetarian? |
-    |:-----|:-------------|:------------|
+    <table border="1" cellspacing="2" cellpadding="2">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Contribution</th>
+          <th>Vegetarian?</th>
+        </tr>
+      </thead>
+    </table>
 
 
 ## International Dinner
