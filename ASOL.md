@@ -136,7 +136,12 @@ This Fall semester potluck is held on campus in the department's lounge, on one 
 
 ## TLS
 
-* TODO
+TLS, the Texas Linguistics Society, is an annual, linguistics-only, graduate student conference.
+
+* There are three or four people on this committee. Maybe even five. Two would be pretty difficult. This is one of the more demanding committees.
+* It takes place over two or three days—a weekend—and though the date has varied, lately it's been late October / early November.
+* Generally, there are two or three keynotes. One or two these are from UT Austin, as funding allows.
+* More information can be found on the [TLS GitHub pages](https://github.com/linguistics/tls)
 
 
 ## Workstations
