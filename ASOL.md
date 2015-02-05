@@ -132,19 +132,19 @@ Open House is when the department encourages newly accepted students to visit in
 The event starts Thursday and ends Saturday. This committee generally helps organize the items marked (ASOL).
 
 **Thursday:**
-  + Open House happy hour, generally with the department buying dinner, generally pizza. This is a convenient place for current graduate student hosts to collect their prospective graduate student guests. (ASOL)
++ Open House happy hour, generally with the department buying dinner, generally pizza. This is a convenient place for current graduate student hosts to collect their prospective graduate student guests. (ASOL)
 
 **Friday:**
-  + Coffee and bagels "Meet and Greet" in the morning, in the department. Pretty much everyone is expected to show up for this, unless they have class. (ASOL)
-  + Tours of the different labs.
-  + Other special-interest meetings.
-  + A colloquium or lecture, if schedules allow.
-  + Usual happy hour.
-  + Dinner at a faculty member's house. Again, most people show up for this. (ASOL)
++ Coffee and bagels "Meet and Greet" in the morning, in the department. Pretty much everyone is expected to show up for this, unless they have class. (ASOL)
++ Tours of the different labs.
++ Other special-interest meetings.
++ A colloquium or lecture, if schedules allow.
++ Usual happy hour.
++ Dinner at a faculty member's house. Again, most people show up for this. (ASOL)
 
 **Saturday:**
-  + "Dutch treat" brunch, i.e., you pay for yourself. (ASOL)
-  + Hiking, maybe.
++ "Dutch treat" brunch, i.e., you pay for yourself. (ASOL)
++ Hiking, maybe.
 
 * There are two or three people on this committee.
 * The committee arranges graduate student hosts for the prospective students. The committee members are not required to host students, but it's definitely easier to host someone yourself than find someone to host them for you. **This is the hardest part.**
