@@ -3,6 +3,10 @@ layout: default
 ---
 # ASOL
 
+The Associated Students of Linguistics (ASOL) is the official organization of the graduate students in the Department of Linguistics at the University of Texas at Austin.
+
+The organization is registered on [HornsLink](https://utexas.collegiatelink.net/organization/associatedstudentsoflinguistics).
+
 This page documents the responsibilities of the ASOL committees:
 
 * [Digital resources](#digital-resources) (Canvas, fellowships, this site)
@@ -21,6 +25,7 @@ This page documents the responsibilities of the ASOL committees:
 * [TLS](#tls)
 * [Workstations](#workstations)
 
+---
 
 ## Digital resources
 
@@ -80,9 +85,9 @@ This page documents the responsibilities of the ASOL committees:
 
 ## Happy Hour
 
-Happy Hour varies in frequency in proportion to departmental attendance. The goal is at least once a month. This committee is responsible for
+Happy Hour varies in frequency in proportion to departmental attendance. The goal is at least once a month.
 
-* The Happy Hour committee generally consists of two people. They decide on a venue and time (generally Friday at 5pm), sends an email early that week, and a reminder on Friday, and arrive at the venue in time to claim a table or two.
+* This committee generally consists of two people. They decide on a venue and time (generally Friday at 5pm), sends an email early that week, and a reminder on Friday, and arrive at the venue in time to claim a table or two.
 
 
 ## Holiday Potluck
@@ -92,7 +97,7 @@ This Fall semester potluck is held on campus in the department's lounge, on one 
 * This committee generally consists of two people, but one person could easily handle it.
 * The "No-class days" (a.k.a. "dead days") are generally the first Monday and Tuesday following the last day of classes; see the current [long session calendar](http://registrar.utexas.edu/calendars) for exact dates.
   - In discussing with Leslie, Tuesday seems a better choice than Monday. Tuesday is less dead than Monday, since it is closer to the final exams period. Having it Tuesday also allows time for a Monday reminder to bring food Tuesday morning.
-* Emails: send one email out a full week in advance, and one a day in advance. These emails should be sent to `linguisticsdept@utlists.utexas.edu` and contain the following information:
+* Emails: send one email out a full week in advance, and another email on the day before. These emails should be sent to `linguisticsdept@utlists.utexas.edu` and contain the following information:
   - Location (current department lounge: CLA 4.310)
   - Time (usually 12:00pm to 1:30pm)
   - A link to a Google spreadsheet. It should be shared so that "Anyone with the link can edit", and have the following columns:
@@ -126,16 +131,18 @@ Open House is when the department encourages newly accepted students to visit in
 
 The event starts Thursday and ends Saturday. This committee generally helps organize the items marked (ASOL).
 
-- **Thursday:**
+**Thursday:**
   + Open House happy hour, generally with the department buying dinner, generally pizza. This is a convenient place for current graduate student hosts to collect their prospective graduate student guests. (ASOL)
-- **Friday:**
+
+**Friday:**
   + Coffee and bagels "Meet and Greet" in the morning, in the department. Pretty much everyone is expected to show up for this, unless they have class. (ASOL)
   + Tours of the different labs.
   + Other special-interest meetings.
   + A colloquium or lecture, if schedules allow.
   + Usual happy hour.
   + Dinner at a faculty member's house. Again, most people show up for this. (ASOL)
-- **Saturday:**
+
+**Saturday:**
   + "Dutch treat" brunch, i.e., you pay for yourself. (ASOL)
   + Hiking, maybe.
 
@@ -162,10 +169,11 @@ The event starts Thursday and ends Saturday. This committee generally helps orga
 ## TLS
 
 TLS, the Texas Linguistics Society, is an annual, linguistics-only, graduate student conference.
+It runs for two (Saturday-Sunday) or three (Friday-Sunday) days.
+Though the date varies, lately it's been late October / early November.
 
 * There are three or four people on this committee. Maybe even five. Two would be pretty difficult. This is one of the more demanding committees.
-* It takes place over two or three days—a weekend—and though the date has varied, lately it's been late October / early November.
-* Generally, there are two or three keynotes. One or two these are from UT Austin, as funding allows.
+* Generally, there are two or three keynotes. One or two of these are from UT Austin, as funding allows.
 * More information can be found on the [TLS GitHub pages](https://github.com/linguistics/tls)
 
 
