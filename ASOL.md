@@ -121,7 +121,32 @@ This Fall semester potluck is held on campus in the department's lounge, on one 
 
 ## Open House
 
-* TODO
+Open House is when the department encourages newly accepted students to visit in a group, usually in late February or **early March**.
+<!-- History: 2010-03-04 (Th), 2011-03-03 (Th), 2012-02-28 (Th), 2014-02-27 (Th), 2015-N/A -->
+
+The event starts Thursday and ends Saturday. This committee generally helps organize the items marked (ASOL).
+
+- **Thursday:**
+  + Open House happy hour, generally with the department buying dinner, generally pizza. This is a convenient place for current graduate student hosts to collect their prospective graduate student guests. (ASOL)
+- **Friday:**
+  + Coffee and bagels "Meet and Greet" in the morning, in the department. Pretty much everyone is expected to show up for this, unless they have class. (ASOL)
+  + Tours of the different labs.
+  + Other special-interest meetings.
+  + A colloquium or lecture, if schedules allow.
+  + Usual happy hour.
+  + Dinner at a faculty member's house. Again, most people show up for this. (ASOL)
+- **Saturday:**
+  + "Dutch treat" brunch, i.e., you pay for yourself. (ASOL)
+  + Hiking, maybe.
+
+* There are two or three people on this committee.
+* The committee arranges graduate student hosts for the prospective students. The committee members are not required to host students, but it's definitely easier to host someone yourself than find someone to host them for you. **This is the hardest part.**
+* The committee coordinates rides to/from the airport.
+* The committee helps out department administration with some of the events:
+  - Open House happy hour: the committee mostly corrals visitors and current students into the same area. Department administration makes the reservations and all that.
+  - Coffee and bagels: again, administration does the administrative stuff, but the committee drums up interest and is there early and helps clean up if needed.
+  - Dinner: the committee should help coordinate rides to/from the venue back to the prospectives' respective housing, but this usually happens naturally at the happy hour anyway. And they help clean up after.
+  - Saturday brunch: usually at the Central Market Cafe, requires no reservations. The committee helps out with transportation arrangements as needed.
 
 
 ## SALSA
