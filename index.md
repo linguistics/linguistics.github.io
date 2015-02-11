@@ -25,6 +25,7 @@ The [University of Texas at Austin](http://www.utexas.edu/) [College of Liberal 
 
 [Instructions](/personal-information#privacy) on updating or protecting your directory entry.
 
+Also see [University Community EID Listing](https://utdirect.utexas.edu/webapps/eidlisting/) (requires EID login), which, in addition to the directory's home address and phone number, lists birthdays (but not birthdates) and EIDs.
 
 # Academic resources
 
