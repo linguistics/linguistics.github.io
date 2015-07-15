@@ -156,7 +156,7 @@ ASOL involvement:
 * The committee coordinates rides to/from the airport.
 * The committee helps out department administration with some of the events:
   - Open House happy hour: the committee mostly corrals visitors and current students into the same area. Department administration makes the reservations and all that.
-  - Coffee and bagels: again, administration does the administrative stuff, but the committee drums up interest and is there early and helps clean up if needed.
+  - Coffee and bagels: again, administration does the administrative stuff, but the committee drums up interest and gets there early and helps clean up if needed.
   - Dinner: the committee should help coordinate rides to/from the venue back to the prospectives' respective housing, but this usually happens naturally at the happy hour anyway. And they help clean up after.
   - Saturday brunch: usually at the Central Market Cafe, requires no reservations. The committee helps out with transportation arrangements as needed.
 
@@ -168,7 +168,13 @@ ASOL involvement:
 
 ## Spring Potluck
 
-* TODO
+Spring Potluck is a lot like the [Holiday Potluck](#holiday-potluck), but more likely to be outside and involve a grill.
+
++ *When*: shortly before the end of the semester (end of April, beginning of May), on a Friday or Saturday, in the evening, around 7:00 pm.
++ *Where*: in recent years it has been held at a student's house.
++ *Who*: everyone, of course.
++ *How*: Share a Google spreadsheet a week or two before the date (to give enough time to shift the date if needed), with a contributions reminder at the beginning of the week, and a reminder the day before or the day of.
+  - Suggested columns: Name, Food vs. Drink, Appetizer vs. Entrée, Vegetarian?, Vegan?
 
 
 ## TLS
