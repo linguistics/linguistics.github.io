@@ -53,7 +53,14 @@ This page documents the responsibilities of the ASOL committees:
 
 ## Courses
 
-* TODO
+At the end of each semester, the administration needs to finalize graduate courses for that semester in the following year.
+This committee consists of one person to serve as liaison between the faculty member currently responsible for scheduling, and the graduate students who will be taking the courses.
+
+* The Spring semester course schedule is proposed in mid-to-late April of the preceding year.
+* The Fall semester course schedule is proposed in mid-to-late November of the preceding year.
+
+Estimated time commitment is 3-6 hours per semester, over the period of maybe a week.
+You basically get a spreadsheet of the courses, send it to the ASOL mailing list, and then work with the scheduling faculty member to resolve any conflicts.
 
 
 ## Dissertation Defense
