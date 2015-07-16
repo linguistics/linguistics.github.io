@@ -170,9 +170,11 @@ ASOL involvement:
 
 ## SALSA
 
-[SALSA](http://studentorgs.utexas.edu/salsa/) (Symposium About Language and Society - Austin) is a important conference for sociolinguists, because there are not many conferences for this area of linguistics. It was originally a joint production of the Linguistics, Anthropology, and Communication Studies departments, run by at least one graduate student representative from each department. It would be a good idea in the future to reach out to graduate students in the Middle Eastern Studies, French/Italian, and Spanish/Portuguese departments, since many of them do sociolinguistics work as well.
+[SALSA](http://studentorgs.utexas.edu/salsa/) (Symposium About Language and Society - Austin) is an important conference for sociolinguists, because there are not many conferences for this area of linguistics.
+It was originally a joint production of the Linguistics, Anthropology, and Communication Studies departments, with at least one graduate student representative from each department.
+It would be a good idea in the future to reach out to graduate students in the Middle Eastern Studies, French/Italian, and Spanish/Portuguese departments, since many of them do sociolinguistics work as well.
 
-+ The conference takes place over three days in the Spring semester (usually April), Friday–Sunday or Thursday–Saturday.
++ The conference runs for two to three days (e.g., Friday–Sunday or Thursday–Saturday) toward the end of the Spring semester (usually April).
 + There are three to four people on the committee. Usually two from Linguistics, one from Communication Studies, one from Anthropology.
 + Three or four keynotes are invited, one or two from within UT Austin.
 
