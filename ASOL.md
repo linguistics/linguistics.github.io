@@ -5,7 +5,8 @@ layout: default
 
 The Associated Students of Linguistics (ASOL) is the official organization of the graduate students in the Department of Linguistics at the University of Texas at Austin.
 
-The organization is registered on [HornsLink](https://utexas.collegiatelink.net/organization/associatedstudentsoflinguistics).
+The organization is registered on [HornsLink](https://utexas.collegiatelink.net/organization/associatedstudentsoflinguistics), which makes it an official UT organization. We don't actually do anything with the HornsLink account except maintain a list of the committee chairs. [UFCU](https://www.ufcu.org/) uses HornsLink's list of members to authorize access to ASOL's bank accounts.
+<!-- So if you have the same name as someone else at UT, be careful! -->
 
 This page documents the responsibilities of the ASOL committees:
 
