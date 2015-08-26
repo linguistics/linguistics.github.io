@@ -123,7 +123,11 @@ This Fall semester potluck is held on campus in the department's lounge, on one 
 
 ## International Dinner
 
-* TODO
+Similar to the [Spring Potluck](#spring-potluck) and [Holiday Potluck](#holiday-potluck), this is held in the Fall mid-semester — a Friday evening (~7pm) in October or early November — at one of the professors' houses.
+
+It's a potluck, so the usual potluck protocol applies: decide on a location (Scott Myers is a usual suspect), a save-the-date a week or two in advance with shared spreadsheet, another reminder a day or two beforehand, and then some help from the committee cleaning up.
+
+One or two committee members is probably sufficient.
 
 
 ## IRB
