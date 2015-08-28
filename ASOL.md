@@ -15,7 +15,7 @@ This page documents the responsibilities of the ASOL committees:
 * [Courses](#courses)
 * [Dissertation Defense](#dissertation-defense)
 * [Gang of Four](#gang-of-four)
-* [GSA Representative](#gsa representative)
+* [GSA Representative](#gsa-representative)
 * [Happy Hour](#happy-hour)
 * [Holiday Potluck](#holiday-potluck)
 * [International Dinner](#international-dinner)
