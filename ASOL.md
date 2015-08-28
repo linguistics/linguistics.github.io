@@ -81,14 +81,20 @@ You basically get a spreadsheet of the courses, send it to the ASOL mailing list
   - <a href="http://deanofstudents.utexas.edu/sa/reregsched.php">Re-registration </a>
   - <a href="http://deanofstudents.utexas.edu/sa/instrules.php">Institutional Rules</a>
 * Suggestions:
-  - Spring ASOL meeting for public committee check-in, progress report (Justin)
+  - Spring ASOL meeting for public committee check-in, progress report
   - Improve committee membership selection process.
-  - TLS/SALSA organizing and institutional memory (Elias)
+  - TLS/SALSA organizing and institutional memory
 
 
 ## GSA Representative
 
-* TODO
+The [Graduate Student Assembly](http://www.utexasgsa.org/) (GSA) is one of three organization that represent graduate student needs, along with the [UT Student Senate](http://utsenate.org/) and the [Texas State Employees Union](http://www.cwa-tseu.org/) (TSEU).
+
+This GSA Representative position in turn represents Linguistics graduate student needs to the GSA, as a "Departmental representative." This is usually a one person committee, but a second person can serve as "Departmental alternate representative" if two students want to share participation in the bimonthly GSA meetings.
+
+There is a lot of flexibility in how much time this position will take, depending on how involved you want to get.
+
+See the GSA's [About us](http://www.utexasgsa.org/about-us/) and [Committees](http://www.utexasgsa.org/committees/) pages to find out more about what issues the GSA is currently involved in. As a GSA Representative, you will also be able to push for the creation of new committees to tackle other problems.
 
 
 ## Happy Hour
