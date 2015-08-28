@@ -101,7 +101,20 @@ See the GSA's [About us](http://www.utexasgsa.org/about-us/) and [Committees](ht
 
 Happy Hour varies in frequency in proportion to departmental attendance. The goal is at least once a month.
 
-* This committee generally consists of two people. They decide on a venue and time (generally Friday at 5pm), sends an email early that week, and a reminder on Friday, and arrive at the venue in time to claim a table or two.
+This committee generally consists of two people.
+They decide on a venue (within walking distance of campus) and time (generally Friday at 5pm),
+  send an email early that week,
+  a reminder on Friday,
+  and arrive at the venue in time to claim a table or two.
+
+Previous venues include:
+
+* Hole in the Wall (Guadalupe and Dean Keeton)
+* The Local (Guadalupe and 27th)
+* Crown & Anchor Pub (Speedway and 30th)
+* Posse East (San Jacinto and Duval)
+* <del>Dog and Duck Pub</del> (iSchool) (this used to be the de facto venue when we were in Calhoun, but it has since closed, and we have moved)
+* Dive Bar & Lounge (iSchool)
 
 
 ## Holiday Potluck
