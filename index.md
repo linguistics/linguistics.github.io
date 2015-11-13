@@ -60,3 +60,6 @@ Also see [University Community EID Listing](https://utdirect.utexas.edu/webapps/
 * [UT Computational Linguistics Tea](https://groups.google.com/forum/#!forum/utcl-tea) (CL Tea):
   Meeting every two weeks (alternating, i.e. interlacing, with NLL) to discuss the members' current work, often focusing on one or two members. Feedback-heavy. Slides are discouraged unless the presentation is practice for a conference talk.
     _Frequency_: 1 / week during the semester
+* [Forum for Artificial Intelligence](http://www.cs.utexas.edu/~ai-lab/fai/) (FAI):
+  Meets to discuss scientific, philosophical, and cultural issues in artificial intelligence. Both technical research topics and broader inter-disciplinary aspects of AI are covered, and all are welcome to attend!
+    _Frequency_: Once every two weeks (or so) during the semester
