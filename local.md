@@ -16,7 +16,7 @@ The UT Linguistics department is located in the [Center for Liberal Arts](https:
 
 The main airport servicing Austin, TX and the surrounding area is the [Austin-Bergstrom International Airport](http://www.austintexas.gov/airport), aka. [AUS](http://content.abia.org:8080/webfids/).
 
-Shuttles and Taxis are available from AUS and the [Route 100 Airport Flyer](http://www.capmetro.org/schedulemap.aspx?f1=100) bus stops on the UT campus at the intersection of 23<sup>rd</sup> St. and Robert Dedman, which is just a short walk from the CLA.
+Shuttles and Taxis are available from AUS and the [Route 100 Airport Flyer](http://www.capmetro.org/schedulemap.aspx?f1=100) bus stops on the UT campus at the intersection of 23rd St. and Robert Dedman, which is just a short walk from the CLA.
 
 [![Google Map of bus stop at 23rd and Robert Dedman](https://maps.google.com/maps/api/staticmap?center=30.284789,-97.735298&zoom=16&markers=30.285097,-97.730701&size=500x325&sensor=false)](http://maps.google.com/maps?q=23rd+St+E+and+Robert+Dedman+Dr,+Austin,+TX&hl=en&ll=30.285864,-97.735105&spn=0.009487,0.017552&sll=30.286031,-97.73268&sspn=0.009487,0.017552&hnear=Robert+Dedman+Dr+%26+23rd+St+E,+Austin,+Travis,+Texas+78712&t=m&z=16)
 
