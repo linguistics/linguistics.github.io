@@ -29,7 +29,7 @@ Also see [University Community EID Listing](https://utdirect.utexas.edu/webapps/
 
 # Academic resources
 
-* [Google Scholar](http://scholar.google.com.ezproxy.lib.utexas.edu/)
+* [Google Scholar](https://scholar-google-com.ezproxy.lib.utexas.edu/)
 * [Library Databases](https://login.ezproxy.lib.utexas.edu/menu)
 * [Library Catalog](http://catalog.lib.utexas.edu/)
 
