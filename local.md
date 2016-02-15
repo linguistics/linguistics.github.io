@@ -65,3 +65,9 @@ Want to see more of the town? Check out the following bike rental services (pric
 * [Waterloo Cycles](http://waterloocycles.com/): "as little as $10/day"
 * [Bicycle Sport Shop](http://bicyclesportshop.com/about/rental-department-pg174.htm): $40/day
 * [Austin Bike Tours and Rentals](http://www.austinbiketoursandrentals.com/rentals/): $35/day
+
+
+### Food
+
+For now see the [NASSLLI 2012 - Food](http://nasslli2012.com/food) page.
+A little out of date, perhaps, but it will have to do until I can manage a proper merge/modernization.
