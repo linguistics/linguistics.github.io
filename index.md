@@ -1,20 +1,20 @@
 ---
 layout: default
 ---
-# The [departmental website](http://www.utexas.edu/cola/depts/linguistics)
+# The Linguistics Department website
 
-The [University of Texas at Austin](http://www.utexas.edu/) [College of Liberal Arts](http://www.utexas.edu/cola/) [Department of Linguistics](http://www.utexas.edu/cola/depts/linguistics) lists of people:
+The [University of Texas at Austin](https://www.utexas.edu/) [College of Liberal Arts](https://liberalarts.utexas.edu/index.php) [Department of Linguistics](https://liberalarts.utexas.edu/linguistics/) lists of people:
 
-* [Faculty](http://www.utexas.edu/cola/depts/linguistics/faculty/list.php)
-* [Graduate Students](http://www.utexas.edu/cola/depts/linguistics/graduate_programs/gradstudents/list.php)
-* [Staff](http://www.utexas.edu/cola/depts/linguistics/staff/list.php)
+* [Faculty](https://liberalarts.utexas.edu/linguistics/faculty/index.php)
+* [Graduate Students](https://liberalarts.utexas.edu/linguistics/graduate/gradstudents/list.php)
+* [Staff](https://liberalarts.utexas.edu/linguistics/staff.php)
 
 [Instructions](/personal-information#profile) on updating your profile.
 
 
 # The [UT Directory](http://www.utexas.edu/directory/)
 
-<form action="http://www.utexas.edu/directory/index.php" method="get">
+<form action="https://directory.utexas.edu/index.php" method="get">
   <fieldset>
     <legend>UT Directory Query</legend>
 
@@ -36,8 +36,10 @@ Also see [University Community EID Listing](https://utdirect.utexas.edu/webapps/
 
 # Graduate student resources
 
-* [Advancing to candidacy](http://www.utexas.edu/ogs/pdn/candidacy.html)
-* [Graduating](http://www.utexas.edu/ogs/pdn/deadlines/doc_fall.html)
+As of January 2016 (UT breaks URLs so often it's impossible to link to the current pages):
+
+* [Advancing to candidacy](https://web.archive.org/web/20160120225524/http://www.utexas.edu/ogs/pdn/candidacy.html)
+* [Graduating](https://web.archive.org/web/20160111174519/http://www.utexas.edu/ogs/pdn/deadlines/doc_fall.html)
 
 
 # Mailing lists
@@ -45,7 +47,7 @@ Also see [University Community EID Listing](https://utdirect.utexas.edu/webapps/
 **Official UT listserves:**
 
 * [linguistics-announce](https://utlists.utexas.edu/sympa/info/linguistics-announce): Mostly used for colloquium announcements, but sometimes announces related talks or events around campus.
-* [linguisticsdept](https://utlists.utexas.edu/sympa/info/linguisticsdept): Miscellaneous information, like happy hours, checked out library book requests, leftovers up for grabs, dissertation defenses. Private; non-`@utexas.edu` email addresses must be approved for membership.
+* [linguisticsdept](https://utlists.utexas.edu/sympa/info/linguisticsdept): Miscellaneous information, like happy hours, checked out library book requests, leftovers up for grabs, dissertation defenses. Private (non-`@utexas.edu`) email addresses must be approved for membership.
 * [asol](https://utlists.utexas.edu/sympa/info/asol): For most graduate-student related announcements.
 * [cola_grants_alert](https://utlists.utexas.edu/sympa/info/cola_grants_alert): Weekly listing of university-wide grants.
 

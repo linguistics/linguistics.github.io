@@ -8,19 +8,19 @@ UT's websites display a lot of your personal information by default, but often d
 
 ### Profile
 
-[Graduate students](http://www.utexas.edu/cola/depts/linguistics/graduate_programs/gradstudents/list.php), [faculty](http://www.utexas.edu/cola/depts/linguistics/faculty/list.php), and [staff](http://www.utexas.edu/cola/depts/linguistics/staff/list.php) have profile information accessible through listings on the Linguistics department's website.
+[Graduate students](https://liberalarts.utexas.edu/linguistics/graduate/gradstudents/list.php), [faculty](https://liberalarts.utexas.edu/linguistics/faculty/index.php), and [staff](https://liberalarts.utexas.edu/linguistics/staff.php) have profile information accessible through listings on the Linguistics department's website.
 
-1. To change your profile as it appears on those pages, log into the [College of Liberal Arts Database](http://www.utexas.edu/cola/_db/) with your EID and password.
-2. From there, navigate to the [Myprofile page](http://www.utexas.edu/cola/_db/myprofile/) to change the fields that are displayed on your page.
+1. To change your profile as it appears on those pages, log into the [College of Liberal Arts Database](https://liberalarts.utexas.edu/_db/) with your EID and password.
+2. From there, navigate to the [Myprofile](https://liberalarts.utexas.edu/_db/myprofile/) page to change the fields that are displayed on your page.
 
 
 ### Privacy
 
 By default, personal information like phone number, address, and apartment number are exposed publicly. UT's website [disallows](http://www.utexas.edu/robots.txt) Google and other search tools from indexing the directory search results, but this is only a semblance of privacy, since `robots.txt` is a suggestion, not a restriction.
 
-You can't remove your name, email, or faculty / staff / student status from the listing, but you can remove most of your personal information from [the directory](http://www.utexas.edu/directory/). To do so, start at the following page:
+You can't remove your name, email, or faculty / staff / student status from the listing, but you can remove most of your personal information from [the directory](https://directory.utexas.edu/). To do so, start at the following page:
 
-* [utdirect.utexas.edu/registrar/myinfo/sdr_restrict.WBX](https://utdirect.utexas.edu/registrar/myinfo/sdr_restrict.WBX)
+* <https://utdirect.utexas.edu/registrar/myinfo/sdr_restrict.WBX>
 
 Instructions:
 
@@ -33,4 +33,10 @@ Instructions:
 
 Or if you simply want to update your address, go to this page:
 
-* [utdirect.utexas.edu/apps/utd/all_my_addresses](https://utdirect.utexas.edu/apps/utd/all_my_addresses/)
+* <https://utdirect.utexas.edu/apps/utd/all_my_addresses/>
+
+
+### Privacy ramifications
+
+If you're graduating, restricting your information may cause your name and degree to be omitted from the graduation events printed program.
+They'll still call you up to the stage or whatever, but your parents might be confused.
