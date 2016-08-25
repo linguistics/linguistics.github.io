@@ -65,3 +65,7 @@ As of January 2016 (UT breaks URLs so often it's impossible to link to the curre
 * [Forum for Artificial Intelligence](http://www.cs.utexas.edu/~ai-lab/fai/) (FAI):
   Meets to discuss scientific, philosophical, and cultural issues in artificial intelligence. Both technical research topics and broader inter-disciplinary aspects of AI are covered, and all are welcome to attend!
     _Frequency_: Once every two weeks (or so) during the semester
+* [Feature Learning and Representation Engineering](https://groups.google.com/forum/#!forum/ut-flare) (FLARE):
+  Deep learning reading group run by students in the AI lab.
+  - [Papers](https://docs.google.com/spreadsheets/d/12WDmcBDhQiRdup18GliV1PaeNkqIFZRT9AOcZmTcvec/edit)
+  - [Website](http://www.cs.utexas.edu/~ml/flare/)
