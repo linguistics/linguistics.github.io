@@ -17,9 +17,11 @@ The [University of Texas at Austin](https://www.utexas.edu/) [College of Liberal
 <form action="https://directory.utexas.edu/index.php" method="get">
   <fieldset>
     <legend>UT Directory Query</legend>
-
-    <label>Name: <input name="q" style="width: 250px"></label>
-    <button>Search</button>
+    <div class="flex-fill">
+      <label>Name:</label>
+      <input name="q" />
+      <button>Search</button>
+    </div>
   </fieldset>
 </form>
 
@@ -29,10 +31,30 @@ Also see [University Community EID Listing](https://utdirect.utexas.edu/webapps/
 
 # Academic resources
 
-* [Google Scholar](https://scholar-google-com.ezproxy.lib.utexas.edu/)
 * [Library Databases](https://login.ezproxy.lib.utexas.edu/menu)
 * [Library Catalog](http://catalog.lib.utexas.edu/)
 
+<form onsubmit="event.preventDefault(); window.location = 'http://dx.doi.org.ezproxy.lib.utexas.edu/' + this.doi.value">
+  <fieldset>
+    <legend>UT EZproxy for <a href="http://doi.org">CrossRef</a></legend>
+    <div class="flex-fill">
+      <label>http://dx.doi.org/</label>
+      <input name="doi" />
+      <button>Lookup</button>
+    </div>
+  </fieldset>
+</form>
+
+<form action="https://scholar-google-com.ezproxy.lib.utexas.edu/scholar" method="get">
+  <fieldset>
+    <legend>UT EZproxy for <a href="https://scholar-google-com.ezproxy.lib.utexas.edu/">Google Scholar</a></legend>
+    <div class="flex-fill">
+      <label>Query:</label>
+      <input name="q">
+      <button>Search</button>
+    </div>
+  </fieldset>
+</form>
 
 # Graduate student resources
 

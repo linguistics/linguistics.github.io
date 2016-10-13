@@ -54,3 +54,11 @@ a:active {
 form {
   margin: 2ex 0;
 }
+
+.flex-fill {
+  display: flex;
+}
+.flex-fill input {
+  flex-grow: 1;
+  margin: 0 3pt;
+}
