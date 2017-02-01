@@ -1,7 +1,7 @@
 ---
 layout: default
+title: Personal information
 ---
-# Personal Information
 
 UT's websites display a lot of your personal information by default, but often does not make it clear how to update or hide your own personal information.
 

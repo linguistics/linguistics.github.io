@@ -1,7 +1,7 @@
 ---
 layout: default
+title: ASOL
 ---
-# ASOL
 
 The Associated Students of Linguistics (ASOL) is the official organization of the graduate students in the Department of Linguistics at the University of Texas at Austin.
 

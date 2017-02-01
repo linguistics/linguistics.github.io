@@ -1,7 +1,7 @@
 ---
 layout: default
+title: The Linguistics Department website
 ---
-# The Linguistics Department website
 
 The [University of Texas at Austin](https://www.utexas.edu/) [College of Liberal Arts](https://liberalarts.utexas.edu/index.php) [Department of Linguistics](https://liberalarts.utexas.edu/linguistics/) lists of people:
 

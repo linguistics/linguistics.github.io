@@ -1,8 +1,7 @@
 ---
 layout: default
+title: Local accommodations
 ---
-# Local Information
-
 ### Campus
 
 The University of Texas is located just a mile or two north of downtown Austin.

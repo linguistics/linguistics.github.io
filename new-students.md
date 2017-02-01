@@ -1,8 +1,7 @@
 ---
 layout: default
+title: New students
 ---
-# New Students
-
 The following resources are intended to get you acquainted with your new department, university, city, state, country, etc.
 
 ## Housing
