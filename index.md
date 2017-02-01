@@ -56,6 +56,8 @@ Also see [University Community EID Listing](https://utdirect.utexas.edu/webapps/
   </fieldset>
 </form>
 
+* [Instructure](https://utexas.instructure.com/) = [Canvas](http://canvas.utexas.edu/) = the new Blackboard.
+
 # Graduate student resources
 
 As of January 2016 (UT breaks URLs so often it's impossible to link to the current pages):
