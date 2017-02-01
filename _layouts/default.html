@@ -15,7 +15,7 @@
     <ul>
       <li><a href="/">Home</a></li>
       {% for page in site.pages %}
-        {% if page.url != "/" and !(page.url | contains: "css") %}
+        {% if page.url != "/" and page.title %}
           <li><a href="{{ page.url | remove: '.html' }}">{{ page.title }}</a></li>
         {% endif %}
       {% endfor %}
