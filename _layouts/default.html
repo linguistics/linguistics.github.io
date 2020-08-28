@@ -8,14 +8,18 @@
   <nav>
     <h1>UT Linguistics</h1>
 
+    <ul style="background-color: yellow">
+    	<li>Click <a href="/">here</a> to view the new (in development) website.</li>
+    </ul>
+
     <h3>Disclaimer</h3>
     <p>This <a href="https://github.com/linguistics/linguistics.github.io">repository</a> and all others under <a href="https://github.com/linguistics">https://github.com/linguistics</a> are not official representations of the University of Texas at Austin, nor the College of Liberal Arts, nor the Linguistics Department.</p>
 
     <h2>Pages</h2>
     <ul>
-      <li><a href="/">Home</a></li>
+      <!--<li><a href="/">Home</a></li>-->
       {% for page in site.pages %}
-        {% if page.url != "/" and page.title %}
+        {% if page.dir contains "/old-site/" and page.title %}
           <li><a href="{{ page.url | remove: '.html' }}">{{ page.title }}</a></li>
         {% endif %}
       {% endfor %}
