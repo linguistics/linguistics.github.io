@@ -7,24 +7,27 @@ a {
 }
 
 a:hover {
-	color: #00a9b7;
+	color: #bf5700;
 }
 
 .btn-primary {
+    color: white !important;
     background-color: #005f86;
     border: 1mm solid #005f86;
 }
 
 .btn-primary:hover {
-	color: #005f86;
-    background-color: white;
-    border-color: #005f86;
+    color: white !important;
+    background-color: #bf5700 !important;
+    border: 1mm solid #bf5700 !important;
+    text-decoration: none !important;
 }
 
 .btn-primary:focus, .btn-primary.focus {
-	color: #005f86 !important;
-    background-color: white !important;
-    border-color: #005f86 !important;
+    color: white !important;
+    background-color: #bf5700 !important;
+    border: 1mm solid #bf5700 !important;
+    text-decoration: none !important;
 }
 
 header.masthead {
@@ -48,6 +51,12 @@ header.masthead {
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
     color: #f8971f;
 }
+
+.needspace {
+    padding-top: 8rem;
+    margin-top: -8rem;
+}
+
 
 h4.section-subheading {
     font-size: 1rem;
