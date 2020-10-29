@@ -27,6 +27,8 @@ cache: bundler # caching bundler gem packages will speed up build
 deploy:
   # Use Github pages deploy process
   provider: pages
+  # Keep builded pages
+  skip_cleanup: true
   # Incremental commit to keep old build/files from previous deployments
   keep_history: true
   # Directory where your generated files are located
