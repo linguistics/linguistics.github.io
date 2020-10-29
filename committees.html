@@ -1,0 +1,51 @@
+---
+title: Home
+supertitle: Committee Details
+subtitle: Associated Students of Linguistics
+layout: default
+---
+
+        <section class="page-section bg-light">
+            <div class="container">
+
+                <h2 class="text-center section-heading text-uppercase text-muted">Administrative</h2>
+                <hr>
+                {% for committee in site.data.committees %}
+                {% if committee.type == "admin" %}
+                <div class="row mb-2 needspace" id="{{ committee.code }}">
+                	<div class="col-lg-2 col-sm-3"><img class="img-fluid rounded" src="/img/committee-icons/{{ committee.code }}.png" alt="" /></div>
+                	<div class="col-lg-3 col-sm-9"><h3>{{ committee.name }}</h3> <p class="text-muted">{{ committee.members }}</p></div>
+                	<div class="col-lg-7 col-sm-12"><p>{{ committee.duties }}</p></div>
+                </div>
+                <hr>
+                {% endif %}
+                {% endfor %}
+
+                <h2 class="text-center section-heading text-uppercase text-muted">Academic</h2>
+                <hr>
+                {% for committee in site.data.committees %}
+                {% if committee.type == "academic" %}
+                <div class="row mb-2 needspace" id="{{ committee.code }}">
+                	<div class="col-lg-2 col-sm-3"><img class="img-fluid rounded" src="/img/committee-icons/{{ committee.code }}.png" alt="" /></div>
+                	<div class="col-lg-3 col-sm-9"><h3>{{ committee.name }}</h3> <p class="text-muted">{{ committee.members }}</p></div>
+                	<div class="col-lg-7 col-sm-12"><p>{{ committee.duties }}</p></div>
+                </div>
+                <hr>
+                {% endif %}
+                {% endfor %}
+
+                <h2 class="text-center section-heading text-uppercase text-muted">Social</h2>
+                <hr>
+                {% for committee in site.data.committees %}
+                {% if committee.type == "social" %}
+                <div class="row mb-2 needspace" id="{{ committee.code }}">
+                	<div class="col-lg-2 col-sm-3"><img class="img-fluid rounded" src="/img/committee-icons/{{ committee.code }}.png" alt="" /></div>
+                	<div class="col-lg-3 col-sm-9"><h3>{{ committee.name }}</h3> <p class="text-muted">{{ committee.members }}</p></div>
+                	<div class="col-lg-7 col-sm-12"><p>{{ committee.duties }}</p></div>
+                </div>
+                <hr>
+                {% endif %}
+                {% endfor %}
+
+            </div>
+        </section>
