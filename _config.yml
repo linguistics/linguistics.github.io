@@ -15,3 +15,4 @@ kramdown:
 gems:
   - jekyll-coffeescript
   - jekyll-paginate
+  - jekyll-data
