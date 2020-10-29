@@ -1,5 +1,6 @@
 # https://slashgear.github.io/how-to-deploy-on-github-pages-with-travis-ci/
 # https://stackoverflow.com/questions/28249255/how-do-i-configure-github-to-use-non-supported-jekyll-site-plugins/28252200#28252200
+# https://jekyllrb.com/docs/continuous-integration/travis-ci/
 
 language: ruby
 rvm:
@@ -26,10 +27,8 @@ cache: bundler # caching bundler gem packages will speed up build
 deploy:
   # Use Github pages deploy process
   provider: pages
-  # Keep builded pages
-  skip_cleanup: true
   # Incremental commit to keep old build/files from previous deployments
-  keep-history: true
+  keep_history: true
   # Directory where your generated files are located
   local_dir: _site/
   # Github security/auth token
@@ -38,4 +37,4 @@ deploy:
   target_branch: gh-pages 
   on:
     # Which branch on commit/push will trigger deployment
-    branch: jekyll-testing
+    branch: master
