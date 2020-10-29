@@ -1,14 +1,7 @@
 # https://slashgear.github.io/how-to-deploy-on-github-pages-with-travis-ci/
-language: node_js
-node_js:
-  - '12'
-cache:
-  yarn: true
-  directories:
-    - public
-    - .cache
-script:
-  - yarn build # Generate static HTML files
+language: ruby
+rvm:
+- 2.3.3
 
 deploy:
   # Use Github pages deploy process
