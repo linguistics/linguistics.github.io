@@ -5,128 +5,78 @@ subtitle: University of Texas at Austin
 layout: default
 ---
 
-        <section class="page-section bg-light" id="info">
-            <div class="container">
-                <div class="text-center">
-                    <h2 class="section-heading text-uppercase">Welcome</h2>
-                </div>
+<section class="page-section bg-light" id="info">
+    <div class="container">
+        <div class="text-center">
+            <h2 class="section-heading text-uppercase">Welcome</h2>
+        </div>
 
-                <p>ASOL is the official graduate student organization of UT Linguistics. We advocate for the interests of graduate students in departmental affairs, organize events relevant to graduate students' academic success, and provide a social support network.</p>
-            </div>
-        </section>
+        <p>ASOL is the official graduate student organization of UT Linguistics. We advocate for the interests of graduate students in departmental affairs, organize events relevant to graduate students' academic success, and provide a social support network.</p>
+    </div>
+</section>
 
 
-        <section class="page-section bg-light" id="committees">
-            <div class="container">
-                <div class="text-center">
-                    <h2 class="section-heading text-uppercase">Committees</h2>
-                    <h3 class="section-subheading text-muted">Membership last updated: September 2020.</h3>
-                </div>
+<section class="page-section bg-light" id="committees">
+    <div class="container">
+        <div class="text-center">
+            <h2 class="section-heading text-uppercase">Committees</h2>
+            <h3 class="section-subheading text-muted">Membership last updated: September 2020.</h3>
+        </div>
 
-                <h2 class="text-center section-heading text-muted">Administrative</h2>
-                <div class="row">
+        <h2 class="text-center section-heading text-muted">Administrative</h2>
+        <div class="row">
 
-                	{% for committee in site.data.committees %}
-                	{% if committee.type == "admin" %}
+           {% for committee in site.data.committees %}
+           {% if committee.type == "admin" %}
 
-                	<div class="col-lg-3 col-sm-6 mb-4"><a class="btn-primary btn-block btn-lg text-center nav-link js-scroll-trigger" style="height: 100%;" href="/committees/#{{ committee.code }}">{{ committee.name }}</i></a></div>
+           <div class="col-lg-3 col-sm-6 mb-4"><a class="btn-primary btn-block btn-lg text-center nav-link js-scroll-trigger" style="height: 100%;" href="/committees/#{{ committee.code }}">{{ committee.name }}</i></a></div>
 
-                    {% endif %}
-                    {% endfor %}
+           {% endif %}
+           {% endfor %}
 
-                </div>
+       </div>
 
-                <h2 class="text-center section-heading text-muted mt-4">Academic</h2>
-                <div class="row">
+       <h2 class="text-center section-heading text-muted mt-4">Academic</h2>
+       <div class="row">
 
-                	{% for committee in site.data.committees %}
-                	{% if committee.type == "academic" %}
+           {% for committee in site.data.committees %}
+           {% if committee.type == "academic" %}
 
-                	<div class="col-lg-3 col-sm-6 mb-4"><a class="btn-primary btn-block btn-lg text-center" style="height: 100%;" href="/committees/#{{ committee.code }}">{{ committee.name }}</i></a></div>
+           <div class="col-lg-3 col-sm-6 mb-4"><a class="btn-primary btn-block btn-lg text-center" style="height: 100%;" href="/committees/#{{ committee.code }}">{{ committee.name }}</i></a></div>
 
-                    {% endif %}
-                    {% endfor %}
+           {% endif %}
+           {% endfor %}
 
-                </div>
+       </div>
 
-                <h2 class="text-center section-heading text-muted mt-4">Social</h2>
-                <div class="row">
+       <h2 class="text-center section-heading text-muted mt-4">Social</h2>
+       <div class="row">
 
-                	{% for committee in site.data.committees %}
-                	{% if committee.type == "social" %}
+           {% for committee in site.data.committees %}
+           {% if committee.type == "social" %}
 
-                	<div class="col-lg-3 col-sm-6 mb-4"><a class="btn-primary btn-block btn-lg text-center" style="height: 100%;" href="/committees/#{{ committee.code }}">{{ committee.name }}</i></a></div>
+           <div class="col-lg-3 col-sm-6 mb-4"><a class="btn-primary btn-block btn-lg text-center" style="height: 100%;" href="/committees/#{{ committee.code }}">{{ committee.name }}</i></a></div>
 
-                    {% endif %}
-                    {% endfor %}
+           {% endif %}
+           {% endfor %}
 
-                </div>
+       </div>
 
-                <!--
+   </div>
 
-                <h2 class="text-center section-heading text-muted">Academic</h2>
-                <div class="row">
+</div>
+</section>
 
-                	{% for committee in site.data.committees %}
-                	{% if committee.type == "academic" %}
-                    <div class="col-lg-3 col-sm-6 mb-4">
-                        <div class="portfolio-item">
-                            <a class="portfolio-link" data-toggle="modal" href="#{{ committee.code }}">
-                                <div class="portfolio-hover">
-                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
-                                </div>
-                                <img class="img-fluid" src="img/committee-icons/{{ committee.code }}.png" alt="" />
-                            </a>
-                            <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">{{ committee.name }}</div>
-                                <div class="portfolio-caption-subheading text-muted">{{ committee.members }}</div>
-                            </div>
-                        </div>
-                    </div>
-                    {% endif %}
-                    {% endfor %}
+<!-- Land Acknowledgment-->
+<section class="page-section bg-light" id="landAcknowledgment">
+    <div class="container">
+        <div class="text-center">
+            <h2 class="section-heading text-uppercase">Land Acknowledgment</h2>
+        </div>
 
-                </div>
-
-                <h2 class="text-center section-heading text-muted">Social</h2>
-                <div class="row">
-
-                	{% for committee in site.data.committees %}
-                	{% if committee.type == "social" %}
-                    <div class="col-lg-3 col-sm-6 mb-4">
-                        <div class="portfolio-item">
-                            <a class="portfolio-link" data-toggle="modal" href="#{{ committee.code }}">
-                                <div class="portfolio-hover">
-                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
-                                </div>
-                                <img class="img-fluid" src="img/committee-icons/{{ committee.code }}.png" alt="" />
-                            </a>
-                            <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">{{ committee.name }}</div>
-                                <div class="portfolio-caption-subheading text-muted">{{ committee.members }}</div>
-                            </div>
-                        </div>
-                    </div>
-                    {% endif %}
-                    {% endfor %}
-
-                -->
-
-                </div>
-
-            </div>
-        </section>
-
-        <!-- Land Acknowledgment-->
-        <section class="page-section bg-light" id="landAcknowledgment">
-            <div class="container">
-                <div class="text-center">
-                    <h2 class="section-heading text-uppercase">Land Acknowledgment</h2>
-                </div>
-
-                <p>We would like to acknowledge that we work and live on Indigenous land. Moreover, We would like to acknowledge and pay our respects to the Carrizo & Comecrudo, Coahuiltecan, Caddo, Tonkawa, Comanche, Lipan Apache, Alabama-Coushatta, Kickapoo, Tigua Pueblo, and all the American Indian and Indigenous Peoples and communities who have been or have become a part of these lands and territories in Texas, here on Turtle Island.
-                </p>
-                
-            </div>
-        </section>
+        <p>We would like to acknowledge that we work and live on Indigenous land. Moreover, We would like to acknowledge and pay our respects to the Carrizo & Comecrudo, Coahuiltecan, Caddo, Tonkawa, Comanche, Lipan Apache, Alabama-Coushatta, Kickapoo, Tigua Pueblo, and all the American Indian and Indigenous Peoples and communities who have been or have become a part of these lands and territories in Texas, here on Turtle Island.
+        </p>
+        
+    </div>
+</section>
 
