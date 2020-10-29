@@ -52,42 +52,236 @@
 
                 <h2 class="text-center section-heading text-uppercase text-muted">Administrative</h2>
                 <hr>
-                {% for committee in site.data.committees %}
-                {% if committee.type == "admin" %}
-                <div class="row mb-2 needspace" id="{{ committee.code }}">
-                	<div class="col-lg-2 col-sm-3"><img class="img-fluid rounded" src="/img/committee-icons/{{ committee.code }}.png" alt="" /></div>
-                	<div class="col-lg-3 col-sm-9"><h3>{{ committee.name }}</h3> <p class="text-muted">{{ committee.members }}</p></div>
-                	<div class="col-lg-7 col-sm-12"><p>{{ committee.duties }}</p></div>
+                
+                
+                <div class="row mb-2 needspace" id="execCommittee">
+                	<div class="col-lg-2 col-sm-3"><img class="img-fluid rounded" src="/img/committee-icons/execCommittee.png" alt="" /></div>
+                	<div class="col-lg-3 col-sm-9"><h3>Executive Committee</h3> <p class="text-muted">Kirsten, Scott, Mackenzie, Seyeon, Mike</p></div>
+                	<div class="col-lg-7 col-sm-12"><p>Conduct ASOL meeting in September, re-register ASOL with Student Activities in November &amp; April, assist in organizing other ASOL projects as necessary. <a target='_blank' href='https://deanofstudents.utexas.edu/sa/reregsched.php'>[info on annual registration]</a> <a target='_blank' href='https://deanofstudents.utexas.edu/sa/instrules.php'>[rules regarding student organizations]</a></p></div>
                 </div>
                 <hr>
-                {% endif %}
-                {% endfor %}
+                
+                
+                
+                <div class="row mb-2 needspace" id="treasurer">
+                	<div class="col-lg-2 col-sm-3"><img class="img-fluid rounded" src="/img/committee-icons/treasurer.png" alt="" /></div>
+                	<div class="col-lg-3 col-sm-9"><h3>Treasurer</h3> <p class="text-muted">Kennedy (Advisor: Laura)</p></div>
+                	<div class="col-lg-7 col-sm-12"><p>Manage the bank account information, and work with other committees (e.g. TLS) to disperse funds.</p></div>
+                </div>
+                <hr>
+                
+                
+                
+                <div class="row mb-2 needspace" id="gsaRep">
+                	<div class="col-lg-2 col-sm-3"><img class="img-fluid rounded" src="/img/committee-icons/gsaRep.png" alt="" /></div>
+                	<div class="col-lg-3 col-sm-9"><h3>GSA Representative</h3> <p class="text-muted">Sarah (Alternate: Austin)</p></div>
+                	<div class="col-lg-7 col-sm-12"><p>Attend fortnightly Graduate Student Assembly (GSA) meetings, report back on relevant issues, and poll graduate students on important votes. <a target='_blank' href='https://www.utgsa.net/''>[GSA website]</a></p></div>
+                </div>
+                <hr>
+                
+                
+                
+                <div class="row mb-2 needspace" id="antiRacism">
+                	<div class="col-lg-2 col-sm-3"><img class="img-fluid rounded" src="/img/committee-icons/antiRacism.png" alt="" /></div>
+                	<div class="col-lg-3 col-sm-9"><h3>Anti-Racism Committee</h3> <p class="text-muted">Frances, Elijah, Sarah, Mike</p></div>
+                	<div class="col-lg-7 col-sm-12"><p>Maintain resources on anti-racist action in academia and (in collaboration with faculty) provide accountability to the steps outlined in the department's anti-racism statement.</p></div>
+                </div>
+                <hr>
+                
+                
+                
+                <div class="row mb-2 needspace" id="irbRep">
+                	<div class="col-lg-2 col-sm-3"><img class="img-fluid rounded" src="/img/committee-icons/irbRep.png" alt="" /></div>
+                	<div class="col-lg-3 col-sm-9"><h3>IRB Representative</h3> <p class="text-muted">Jaime</p></div>
+                	<div class="col-lg-7 col-sm-12"><p>Keep students informed of major changes to the Institutional Review Board (IRB) process. Tony Woodbury is the current faculty IRB coordinator.</p></div>
+                </div>
+                <hr>
+                
+                
+                
+                <div class="row mb-2 needspace" id="workstations">
+                	<div class="col-lg-2 col-sm-3"><img class="img-fluid rounded" src="/img/committee-icons/workstations.png" alt="" /></div>
+                	<div class="col-lg-3 col-sm-9"><h3>Workstations Coordinator</h3> <p class="text-muted">Dag</p></div>
+                	<div class="col-lg-7 col-sm-12"><p>Assign cubicles and update the map each year.</p></div>
+                </div>
+                <hr>
+                
+                
+                
+                <div class="row mb-2 needspace" id="digResources">
+                	<div class="col-lg-2 col-sm-3"><img class="img-fluid rounded" src="/img/committee-icons/digResources.png" alt="" /></div>
+                	<div class="col-lg-3 col-sm-9"><h3>Digital Resources Committee</h3> <p class="text-muted">May, Elijah</p></div>
+                	<div class="col-lg-7 col-sm-12"><p>Maintain websites (<a target='_blank' href='http://linguistics.github.io/'>ASOL</a>, <a target='_blank' href='http://tls.ling.utexas.edu/'>TLS</a>, <a target='_blank' href='http://salsa.ling.utexas.edu/''>SALSA</a>); manage the Slack workspace; create other 'digital resources' as necessary.</p></div>
+                </div>
+                <hr>
+                
+                
+                
+                <div class="row mb-2 needspace" id="phiBeta">
+                	<div class="col-lg-2 col-sm-3"><img class="img-fluid rounded" src="/img/committee-icons/phiBeta.png" alt="" /></div>
+                	<div class="col-lg-3 col-sm-9"><h3>Phi Beta Kappa Representative</h3> <p class="text-muted">Lizzy</p></div>
+                	<div class="col-lg-7 col-sm-12"><p>Represent ASOL at any Phi Beta Kappa events.</p></div>
+                </div>
+                <hr>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
 
                 <h2 class="text-center section-heading text-uppercase text-muted">Academic</h2>
                 <hr>
-                {% for committee in site.data.committees %}
-                {% if committee.type == "academic" %}
-                <div class="row mb-2 needspace" id="{{ committee.code }}">
-                	<div class="col-lg-2 col-sm-3"><img class="img-fluid rounded" src="/img/committee-icons/{{ committee.code }}.png" alt="" /></div>
-                	<div class="col-lg-3 col-sm-9"><h3>{{ committee.name }}</h3> <p class="text-muted">{{ committee.members }}</p></div>
-                	<div class="col-lg-7 col-sm-12"><p>{{ committee.duties }}</p></div>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                <div class="row mb-2 needspace" id="colloq">
+                	<div class="col-lg-2 col-sm-3"><img class="img-fluid rounded" src="/img/committee-icons/colloq.png" alt="" /></div>
+                	<div class="col-lg-3 col-sm-9"><h3>Colloquium Liaison</h3> <p class="text-muted">Kristie, Seyeon</p></div>
+                	<div class="col-lg-7 col-sm-12"><p>Work with faculty to choose colloquium speakers.</p></div>
                 </div>
                 <hr>
-                {% endif %}
-                {% endfor %}
+                
+                
+                
+                <div class="row mb-2 needspace" id="courses">
+                	<div class="col-lg-2 col-sm-3"><img class="img-fluid rounded" src="/img/committee-icons/courses.png" alt="" /></div>
+                	<div class="col-lg-3 col-sm-9"><h3>Courses Liaison</h3> <p class="text-muted">Gabriella</p></div>
+                	<div class="col-lg-7 col-sm-12"><p>Consult with administration about the graduate course offerings each semester.</p></div>
+                </div>
+                <hr>
+                
+                
+                
+                <div class="row mb-2 needspace" id="openHouse">
+                	<div class="col-lg-2 col-sm-3"><img class="img-fluid rounded" src="/img/committee-icons/openHouse.png" alt="" /></div>
+                	<div class="col-lg-3 col-sm-9"><h3>Open House Committee</h3> <p class="text-muted">Taylor, James, Katya, Barrett</p></div>
+                	<div class="col-lg-7 col-sm-12"><p>Organize the open house for admitted students each Spring (living accommodations, travel, and events). Someone on this committee should have a car.</p></div>
+                </div>
+                <hr>
+                
+                
+                
+                <div class="row mb-2 needspace" id="tlsComm">
+                	<div class="col-lg-2 col-sm-3"><img class="img-fluid rounded" src="/img/committee-icons/tlsComm.png" alt="" /></div>
+                	<div class="col-lg-3 col-sm-9"><h3>TLS Committee</h3> <p class="text-muted">Feb 2021: Sophie, Gabriella, Venkat, Catie (advisor)<br>Feb 2022: Barrett, Kennedy, Taylor</p></div>
+                	<div class="col-lg-7 col-sm-12"><p>Organize the annual linguistics conference (Texas Linguistics Society) in the early spring. <a target='_blank' href='http://tls.ling.utexas.edu/'>[TLS website]</a></p></div>
+                </div>
+                <hr>
+                
+                
+                
+                <div class="row mb-2 needspace" id="salsaComm">
+                	<div class="col-lg-2 col-sm-3"><img class="img-fluid rounded" src="/img/committee-icons/salsaComm.png" alt="" /></div>
+                	<div class="col-lg-3 col-sm-9"><h3>SALSA Representatives</h3> <p class="text-muted">Apr 2021: Elijah, Paige Erin, Mike (advisor)</p></div>
+                	<div class="col-lg-7 col-sm-12"><p>Organize a spring conference in conjunction with English, Anthropology, Communication, and other departments. <a target='_blank' href='http://salsa.ling.utexas.edu/'>[SALSA website]</a></p></div>
+                </div>
+                <hr>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
 
                 <h2 class="text-center section-heading text-uppercase text-muted">Social</h2>
                 <hr>
-                {% for committee in site.data.committees %}
-                {% if committee.type == "social" %}
-                <div class="row mb-2 needspace" id="{{ committee.code }}">
-                	<div class="col-lg-2 col-sm-3"><img class="img-fluid rounded" src="/img/committee-icons/{{ committee.code }}.png" alt="" /></div>
-                	<div class="col-lg-3 col-sm-9"><h3>{{ committee.name }}</h3> <p class="text-muted">{{ committee.members }}</p></div>
-                	<div class="col-lg-7 col-sm-12"><p>{{ committee.duties }}</p></div>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                <div class="row mb-2 needspace" id="dissDefense">
+                	<div class="col-lg-2 col-sm-3"><img class="img-fluid rounded" src="/img/committee-icons/dissDefense.png" alt="" /></div>
+                	<div class="col-lg-3 col-sm-9"><h3>Defense Parties</h3> <p class="text-muted">Cristian, Lizzy, May, Catie</p></div>
+                	<div class="col-lg-7 col-sm-12"><p>Organize parties after dissertation defenses (snacks, cake, champagne). Someone on this committee should have a car. <br><br> (During the COVID-19 pandemic, these parties have taken the form of a Zoom gathering &amp; organizing a cake to be delivered to the defender's home.)</p></div>
                 </div>
                 <hr>
-                {% endif %}
-                {% endfor %}
+                
+                
+                
+                <div class="row mb-2 needspace" id="happyHour">
+                	<div class="col-lg-2 col-sm-3"><img class="img-fluid rounded" src="/img/committee-icons/happyHour.png" alt="" /></div>
+                	<div class="col-lg-3 col-sm-9"><h3>Happy Hours</h3> <p class="text-muted">May, Taylor, Paige Erin</p></div>
+                	<div class="col-lg-7 col-sm-12"><p>Organize periodic social events for the department (usually at places close to campus that have both alcohol and good food).</p></div>
+                </div>
+                <hr>
+                
+                
+                
+                <div class="row mb-2 needspace" id="holidayPotluck">
+                	<div class="col-lg-2 col-sm-3"><img class="img-fluid rounded" src="/img/committee-icons/holidayPotluck.png" alt="" /></div>
+                	<div class="col-lg-3 col-sm-9"><h3>Holiday Potluck</h3> <p class="text-muted">Scott, Sarah</p></div>
+                	<div class="col-lg-7 col-sm-12"><p>Organize a potluck event at the end of the fall semester (often hosted by Steve Wechsler).</p></div>
+                </div>
+                <hr>
+                
+                
+                
+                <div class="row mb-2 needspace" id="springBBQ">
+                	<div class="col-lg-2 col-sm-3"><img class="img-fluid rounded" src="/img/committee-icons/springBBQ.png" alt="" /></div>
+                	<div class="col-lg-3 col-sm-9"><h3>Spring BBQ</h3> <p class="text-muted">Venkat, Barrett</p></div>
+                	<div class="col-lg-7 col-sm-12"><p>Organize a potluck event at the end of the spring semester (usually hosted by someone who has a large courtyard area, or in a park). Someone on this committee should have a car.</p></div>
+                </div>
+                <hr>
+                
+                
 
             </div>
         </section>
