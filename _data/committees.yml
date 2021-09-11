@@ -1,31 +1,25 @@
 - code: execCommittee
   name: "Executive Committee"
-  members: "Kirsten, Scott, Mackenzie, Seyeon, Mike"
+  members: "Kirsten, Mackenzie, Scott, Seyeon"
   duties: "Conduct ASOL meeting in September, re-register ASOL with Student Activities in November &amp; April, assist in organizing other ASOL projects as necessary. <a target='_blank' href='https://deanofstudents.utexas.edu/sa/reregsched.php'>[info on annual registration]</a> <a target='_blank' href='https://deanofstudents.utexas.edu/sa/instrules.php'>[rules regarding student organizations]</a>"
   type: admin
 
 - code: treasurer
   name: "Treasurer"
-  members: "Kennedy (Advisor: Laura)"
+  members: "Taylor (Alternate: Barrett)"
   duties: "Manage the bank account information, and work with other committees (e.g. TLS) to disperse funds."
   type: admin
 
 - code: gsaRep
   name: "GSA Representative"
-  members: "Sarah (Alternate: Austin)"
+  members: "Elijah (Alternate: Sarah)"
   duties: "Attend fortnightly Graduate Student Assembly (GSA) meetings, report back on relevant issues, and poll graduate students on important votes. <a target='_blank' href='https://www.utgsa.net/''>[GSA website]</a>"
   type: admin
 
 - code: antiRacism
   name: "Anti-Racism Committee"
-  members: "Frances, Elijah, Sarah, Mike"
+  members: "Caitie, Elijah, Frances, Gabriella, Sarah"
   duties: "Maintain resources on anti-racist action in academia and (in collaboration with faculty) provide accountability to the steps outlined in the department's anti-racism statement."
-  type: admin
-
-- code: irbRep
-  name: "IRB Representative"
-  members: "Jaime"
-  duties: "Keep students informed of major changes to the Institutional Review Board (IRB) process. Tony Woodbury is the current faculty IRB coordinator."
   type: admin
 
 - code: workstations
@@ -36,14 +30,8 @@
 
 - code: digResources
   name: "Digital Resources Committee"
-  members: "May, Elijah"
+  members: "May (Alternate: Ivana)"
   duties: "Maintain websites (<a target='_blank' href='http://linguistics.github.io/'>ASOL</a>, <a target='_blank' href='http://tls.ling.utexas.edu/'>TLS</a>, <a target='_blank' href='http://salsa.ling.utexas.edu/''>SALSA</a>); manage the Slack workspace; create other 'digital resources' as necessary."
-  type: admin
-
-- code: phiBeta
-  name: "Phi Beta Kappa Representative"
-  members: "Lizzy"
-  duties: "Represent ASOL at any Phi Beta Kappa events."
   type: admin
 
 - code: colloq
@@ -54,48 +42,48 @@
 
 - code: courses
   name: "Courses Liaison"
-  members: "Gabriella"
+  members: "May"
   duties: "Consult with administration about the graduate course offerings each semester."
   type: academic
 
 - code: openHouse
   name: "Open House Committee"
-  members: "Taylor, James, Katya, Barrett"
+  members: "Austin, James, Katya, Sophie"
   duties: "Organize the open house for admitted students each Spring (living accommodations, travel, and events). Someone on this committee should have a car."
   type: academic
 
 - code: tlsComm
   name: "TLS Committee"
-  members: "Feb 2021: Sophie, Gabriella, Venkat, Catie (advisor)<br>Feb 2022: Barrett, Kennedy, Taylor"
+  members: "Feb 2022: Barrett, Lee, Taylor, Venkat<br>Feb 2023: Gabriel, Lee, Sarah"
   duties: "Organize the annual linguistics conference (Texas Linguistics Society) in the early spring. <a target='_blank' href='http://tls.ling.utexas.edu/'>[TLS website]</a>"
   type: academic
 
 - code: salsaComm
   name: "SALSA Representatives"
-  members: "Apr 2021: Elijah, Paige Erin, Mike (advisor)"
-  duties: "Organize a spring conference in conjunction with English, Anthropology, Communication, and other departments. <a target='_blank' href='http://salsa.ling.utexas.edu/'>[SALSA website]</a>"
+  members: "Apr 2021: Elijah, Kristie"
+  duties: "Organize a spring conference in conjunction with English, Anthropology, Communication, and other departments. <a target='_blank' href='http://salsa.ling.utexas.edu/'>[SALSA website]<br>2021-2022: Evaluate the status of SALSA going forward.</a>"
   type: academic
 
 - code: dissDefense
   name: "Defense Parties"
-  members: "Cristian, Lizzy, May, Caitie"
+  members: "Caitie, Gabriella, Lizzy"
   duties: "Organize parties after dissertation defenses (snacks, cake, champagne). Someone on this committee should have a car. <br><br> (During the COVID-19 pandemic, these parties have taken the form of a Zoom gathering &amp; organizing a cake to be delivered to the defender's home.)"
   type: social
 
 - code: happyHour
   name: "Happy Hours"
-  members: "May, Taylor, Paige Erin"
+  members: "Mike, Scott, Taylor"
   duties: "Organize periodic social events for the department (usually at places close to campus that have both alcohol and good food)."
   type: social
 
 - code: holidayPotluck
   name: "Holiday Potluck"
-  members: "Scott, Sarah"
+  members: "Paige Erin, Sarah"
   duties: "Organize a potluck event at the end of the fall semester (often hosted by Steve Wechsler)."
   type: social
 
 - code: springBBQ
   name: "Spring BBQ"
-  members: "Venkat, Barrett"
+  members: "Venkat"
   duties: "Organize a potluck event at the end of the spring semester (usually hosted by someone who has a large courtyard area, or in a park). Someone on this committee should have a car."
   type: social
