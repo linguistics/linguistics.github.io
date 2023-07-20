@@ -1,31 +1,31 @@
 - code: execCommittee
   name: "Executive Committee"
   members: "Mackenzie, SeYeon, Gabriella, Taylor"
-  duties: "Conduct ASOL meeting in September, re-register ASOL with Student Activities in November &amp; April, assist in organizing other ASOL projects as necessary. <a target='_blank' href='https://deanofstudents.utexas.edu/sa/reregsched.php'>[info on annual registration]</a> <a target='_blank' href='https://deanofstudents.utexas.edu/sa/instrules.php'>[rules regarding student organizations]</a>"
+  duties: "Conduct ASOL meeting in September, re-register ASOL with Student Activities each spring, act as liaison between students and faculty, oversee all other committees, assist in organizing other ASOL projects as necessary."
   type: admin
 
 - code: treasurer
   name: "Treasurer"
   members: "Taylor (Alternate: Tim)"
-  duties: "Manage the bank account information, and work with other committees (e.g. TLS) to disperse funds."
+  duties: "Manage bank accounts, keep track of all monetary pools, work with other committees to disperse funds."
   type: admin
 
 - code: gsaRep
   name: "GSA Representative"
   members: "Tim"
-  duties: "Attend fortnightly Graduate Student Assembly (GSA) meetings, report back on relevant issues, and poll graduate students on important votes. <a target='_blank' href='https://www.utgsa.net/''>[GSA website]</a>"
+  duties: "Attend fortnightly Graduate Student Assembly meetings, report back on relevant issues, poll graduate students on important votes, inform graduate students of relevant information, and act as liaison between students and the GSA."
   type: admin
 
 - code: antiRacism
   name: "Anti-Racism Committee"
   members: "Sarah, Elijah, Juan, Oscar, Lorena, Mike"
-  duties: "Maintain resources on anti-racist action in academia and (in collaboration with faculty) provide accountability to the steps outlined in the department's anti-racism statement."
+  duties: "Maintain resources on anti-racist action in academia and (in collaboration with faculty) provide accountability steps outlined in the department's anti-racism statement, liaise for students who may need resources to deal with racism-related issues."
   type: admin
 
 - code: workstations
   name: "Workstations Coordinator"
   members: "Mackenzie"
-  duties: "Assign cubicles and update the map each year."
+  duties: "Assign cubicles and update the map as needed."
   type: admin
 
 - code: digResources
@@ -43,47 +43,41 @@
 - code: courses
   name: "Courses Liaison"
   members: "Sophie, Oscar"
-  duties: "Consult with administration about the graduate course offerings each semester."
+  duties: "Consult with administration about the graduate course offerings each semester, ensuring no serious conflicts are scheduled and the schedule poses no serious concerns for students' degrees."
   type: academic
 
 - code: openHouse
   name: "Open House Committee"
   members: "Barrett, Austin, James, Taylor, Hongli, Katya"
-  duties: "Organize the open house for admitted students each Spring (living accommodations, travel, and events). Someone on this committee should have a car."
+  duties: "Organize the open house for admitted students each spring in collaboration with Ben. Responsible for finding (but not necessarily providing) living accommodations and travel, and planning events in conjunction with the department."
   type: academic
 
 - code: tlsComm
   name: "TLS Committee"
   members: "Feb 2023: Gabriel, Lee, Sarah, Ivana, Will<br>Feb 2024: Madeline, Tim, Juan, Hongjin"
-  duties: "Organize the annual linguistics conference (Texas Linguistics Society) in the early spring. <a target='_blank' href='http://tls.ling.utexas.edu/'>[TLS website]</a>"
-  type: academic
-  
-- code: cillaComm
-  name: "CILLA Representative"
-  members: "Nov 2023: Kristina, Lizzy (Paige Erin, Mackenzie)"
-  duties: "Support the faculty in organizing the Conference on Indigenous Languages of Latin America."
+  duties: "Organize the annual linguistics conference in early spring. Should be completed by all students by the end of their third year; at least one dedicated advisor who has been involved with the conference previously."
   type: academic
 
 - code: dissDefense
   name: "Defense Parties"
   members: "Elijah, Oscar, Tim"
-  duties: "Organize parties after dissertation defenses (snacks, cake, champagne). Someone on this committee should have a car. <br><br> (During the COVID-19 pandemic, these parties have taken the form of a Zoom gathering &amp; organizing a cake to be delivered to the defender's home.)"
+  duties: "Organize parties after dissertation defenses. If in person, this should include a gathering on campus or nearby with appropriate refreshments. In virtual, organize a Zoom/GatherTown gathering and arrange for a cake to be delivered to the defender."
   type: social
 
 - code: happyHour
   name: "Happy Hours"
   members: "Lorena, Sophie, Austin, Venkat"
-  duties: "Organize periodic social events for the department (usually at places close to campus that have both alcohol and good food)."
+  duties: "Organize regular social events for the department within easy walking/bussing distance from campus."
   type: social
 
 - code: holidayPotluck
   name: "Holiday Potluck"
   members: "Paige Erin, Lee, Gladys, Hongjin"
-  duties: "Organize a potluck event at the end of the fall semester (often hosted by Steve Wechsler)."
+  duties: "Organize a potluck event at the end of the fall semester to be hosted at a faculty member's house. Plan for the weekend after classes end."
   type: social
 
 - code: springBBQ
   name: "Spring BBQ"
   members: "Barrett, Hongli, Will"
-  duties: "Organize a potluck event at the end of the spring semester (usually hosted by someone who has a large courtyard area, or in a park). Someone on this committee should have a car."
+  duties: "Organize a potluck event at the end of the spring semester to be hosted in a park or other outdoor space. Plan for the weekend after classes end."
   type: social
