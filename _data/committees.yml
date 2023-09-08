@@ -1,83 +1,83 @@
 - code: execCommittee
   name: "Executive Committee"
-  members: "Mackenzie, SeYeon, Gabriella, Taylor"
+  members: "Mackenzie, SeYeon, Taylor, Elijah, Tim"
   duties: "Conduct ASOL meeting in September, re-register ASOL with Student Activities each spring, act as liaison between students and faculty, oversee all other committees, assist in organizing other ASOL projects as necessary."
   type: admin
 
 - code: treasurer
   name: "Treasurer"
-  members: "Taylor (Alternate: Tim)"
+  members: "Taylor, Lee"
   duties: "Manage bank accounts, keep track of all monetary pools, work with other committees to disperse funds."
   type: admin
 
 - code: gsaRep
   name: "GSA Representative"
-  members: "Tim"
+  members: "Tim (Alternate: Lee)"
   duties: "Attend fortnightly Graduate Student Assembly meetings, report back on relevant issues, poll graduate students on important votes, inform graduate students of relevant information, and act as liaison between students and the GSA."
   type: admin
 
 - code: antiRacism
   name: "Anti-Racism Committee"
-  members: "Sarah, Elijah, Juan, Oscar, Lorena, Mike"
+  members: "Elijah, Will, Gabriella, Kristina, Yejin, Hongjin"
   duties: "Maintain resources on anti-racist action in academia and (in collaboration with faculty) provide accountability steps outlined in the department's anti-racism statement, liaise for students who may need resources to deal with racism-related issues."
   type: admin
 
 - code: workstations
   name: "Workstations Coordinator"
-  members: "Mackenzie"
+  members: "Mackenzie, Austin"
   duties: "Assign cubicles and update the map as needed."
   type: admin
 
 - code: digResources
   name: "Digital Resources Committee"
-  members: "May (Alternate: Gabriella)"
+  members: "Jess (Alternate: May)"
   duties: "Maintain websites (<a target='_blank' href='http://linguistics.github.io/'>ASOL</a>, <a target='_blank' href='http://tls.ling.utexas.edu/'>TLS</a>, <a target='_blank' href='http://salsa.ling.utexas.edu/''>SALSA</a>); manage the Slack workspace; create other 'digital resources' as necessary."
   type: admin
 
 - code: colloq
   name: "Colloquium Liaison"
-  members: "Kristie, SeYeon"
+  members: "Masha, Sooji, (Alternate: SeYeon)"
   duties: "Work with faculty to choose colloquium speakers."
   type: academic
 
 - code: courses
   name: "Courses Liaison"
-  members: "Sophie, Oscar"
+  members: "Sophie"
   duties: "Consult with administration about the graduate course offerings each semester, ensuring no serious conflicts are scheduled and the schedule poses no serious concerns for students' degrees."
   type: academic
 
 - code: openHouse
   name: "Open House Committee"
-  members: "Barrett, Austin, James, Taylor, Hongli, Katya"
+  members: "Sophie, Venkat, Katja, Barrett, Lorena, Hongli"
   duties: "Organize the open house for admitted students each spring in collaboration with Ben. Responsible for finding (but not necessarily providing) living accommodations and travel, and planning events in conjunction with the department."
   type: academic
 
 - code: tlsComm
   name: "TLS Committee"
-  members: "Feb 2023: Gabriel, Lee, Sarah, Ivana, Will<br>Feb 2024: Madeline, Tim, Juan, Hongjin"
+  members: "Feb 2024: Madeline,  Tim, Juan, Hongjin, Oscar, (Advisor: Will)<br>Feb 2025: Sampada, Ethan, Sooji, Baorian"
   duties: "Organize the annual linguistics conference in early spring. Should be completed by all students by the end of their third year; at least one dedicated advisor who has been involved with the conference previously."
   type: academic
 
 - code: dissDefense
   name: "Defense Parties"
-  members: "Elijah, Oscar, Tim"
+  members: "Baorian, Catalina"
   duties: "Organize parties after dissertation defenses. If in person, this should include a gathering on campus or nearby with appropriate refreshments. In virtual, organize a Zoom/GatherTown gathering and arrange for a cake to be delivered to the defender."
   type: social
 
 - code: happyHour
   name: "Happy Hours"
-  members: "Lorena, Sophie, Austin, Venkat"
+  members: "Caitie, Paige-Erin, (Alternate: Austin)"
   duties: "Organize regular social events for the department within easy walking/bussing distance from campus."
   type: social
 
 - code: holidayPotluck
   name: "Holiday Potluck"
-  members: "Paige Erin, Lee, Gladys, Hongjin"
+  members: "Tim, Lizzy"
   duties: "Organize a potluck event at the end of the fall semester to be hosted at a faculty member's house. Plan for the weekend after classes end."
   type: social
 
 - code: springBBQ
   name: "Spring BBQ"
-  members: "Barrett, Hongli, Will"
+  members: "Venkat, Ivana"
   duties: "Organize a potluck event at the end of the spring semester to be hosted in a park or other outdoor space. Plan for the weekend after classes end."
   type: social
