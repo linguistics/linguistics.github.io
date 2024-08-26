@@ -29,9 +29,9 @@
   type: admin
 
 - code: digResources
-  name: "Digital Resources Committee"
+  name: "Digital Resources"
   members: "Jess (Alternate: May)"
-  duties: "Maintain websites (<a target='_blank' href='http://linguistics.github.io/'>ASOL</a>, <a target='_blank' href='http://tls.ling.utexas.edu/'>TLS</a>, <a target='_blank' href='http://salsa.ling.utexas.edu/''>SALSA</a>); manage the Slack workspace; create other 'digital resources' as necessary."
+  duties: "Maintain websites (<a target='_blank' href='http://linguistics.github.io/'>ASOL</a>, <a target='_blank' href='http://tls.ling.utexas.edu/'>TLS</a>); manage the Slack workspace; create other 'digital resources' as necessary."
   type: admin
 
 - code: colloq
